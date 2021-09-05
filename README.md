@@ -1,2 +1,2 @@
-# resumen-probabilidad-2021
-Resumen de Probabilidad y Estadistica - FaMAF 2021
+# Probabilidad 2021 - FaMAF
+Resumen de Probabilidad y Estadistica
